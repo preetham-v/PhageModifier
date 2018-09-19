@@ -1,0 +1,87 @@
+// COPYRIGHT DISCLAIMER
+// 
+// Vincent Le Guilloux, Peter Schmidtke and Pierre Tuffery, hereby
+// disclaim all copyright interest in the program “fpocket” (which
+// performs protein cavity detection) written by Vincent Le Guilloux and Peter
+// Schmidtke.
+// 
+// Vincent Le Guilloux  28 November 2008
+// Peter Schmidtke      28 November 2008
+// Pierre Tuffery       28 November 2008
+// 
+// GNU GPL
+// 
+// This file is part of the fpocket package.
+// 
+// fpocket is free software: you can redistribute it and/or modify
+// it under the terms of the GNU General Public License as published by
+// the Free Software Foundation, either version 3 of the License, or
+// (at your option) any later version.
+// 
+// fpocket is distributed in the hope that it will be useful,
+// but WITHOUT ANY WARRANTY; without even the implied warranty of
+// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+// GNU General Public License for more details.
+// 
+// You should have received a copy of the GNU General Public License
+// along with fpocket. If not, see <http://www.gnu.org/licenses/>.
+// 
+===========================
+INSTALLATION INSTRUCTIONS :
+===========================
+
+1: Installing the fpocket release :
+
+> untar, make, make test, make install < 
+
+In order to install fpocket on your computer, please untar the
+fpocket-src-1.0.tgz file in a local folder by typing and move
+to the extracted folder :
+
+>>> tar -xzf fpocket-src-1.0.tgz
+>>> cd fpocket-src-1.0/
+
+Next, you have to compile and test the distribution. You do NOT
+need root priveledges for this operation : 
+
+>>> make
+>>> make test
+
+If no errors occur during the compilation and during the test, you
+can install fpocket in you distribution by typing the following line. 
+Be careful, for this you might need root priveledges. 
+If you want to put the executables whereever you want, you can find 
+them in the fpocket-src-1.0/bin directory. Else, for final installation
+type :
+
+>>> make install
+
+You should be able to run fpocket, dpocket and tpocket from everywhere.
+
+.......................................................................
+
+2: Installing supplementary data :
+
+> untar <
+
+If you are interested in using the same data that has been used to
+parameter and evaluate fpocket, you can download the 
+fpocket-data-1.0.tgz and untar it to a directory using :
+
+>>> tar -xzf fpocket-data-1.0.tgz
+
+This provides a plain data directory containing all data and input files
+for dpocket and tpocket.
+
+........................................................................
+
+
+3: Uninstalling fpocket :
+
+> make uninstall <
+
+In order to uninstall fpocket, dpocket, tpocket and corresponding manual 
+entries simply go to your fpocket-src-1.0 directory and type : 
+
+>>> make uninstall
+

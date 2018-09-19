@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs
+END
+libqhull.so.5
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/libqhull.so.5
+END
+libqhull.lai
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/libqhull.lai
+END
+lt-qhull
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/lt-qhull
+END
+qconvex
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/qconvex
+END
+qdelaunay
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/qdelaunay
+END
+qhull
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/qhull
+END
+lt-qvoronoi
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/lt-qvoronoi
+END
+rbox
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/rbox
+END
+libqhull.a
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/libqhull.a
+END
+libqhull.so.5.0.0
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/libqhull.so.5.0.0
+END
+qhalf
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/qhalf
+END
+libqhull.so
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/libqhull.so
+END
+qvoronoi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/.libs/qvoronoi
+END

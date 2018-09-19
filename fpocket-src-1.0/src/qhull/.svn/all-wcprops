@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/fpocket/!svn/ver/96/fpocket-1.0b/src/qhull
+END
+merge.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/merge.c
+END
+global.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/global.c
+END
+merge.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/merge.h
+END
+Changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/Changes.txt
+END
+poly2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/poly2.c
+END
+io.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/fpocket/!svn/ver/93/fpocket-1.0b/src/qhull/io.c
+END
+geom2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/geom2.c
+END
+stat.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/stat.c
+END
+qvoronoi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/fpocket/!svn/ver/96/fpocket-1.0b/src/qhull/qvoronoi.c
+END
+qset.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/qset.c
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/io.h
+END
+mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/mem.c
+END
+user.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/user.c
+END
+stat.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/stat.h
+END
+qset.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/qset.h
+END
+qvoronoi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/fpocket/!svn/ver/96/fpocket-1.0b/src/qhull/qvoronoi.h
+END
+user.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/user.h
+END
+poly.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/poly.c
+END
+mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/mem.h
+END
+qhull.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/qhull.c
+END
+geom.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/geom.c
+END
+poly.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/poly.h
+END
+qhull_a.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/qhull_a.h
+END
+qhull.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/qhull.h
+END
+geom.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/fpocket/!svn/ver/89/fpocket-1.0b/src/qhull/geom.h
+END
