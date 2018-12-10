@@ -3,7 +3,7 @@ import string
 from math import sqrt
 
 if len(sys.argv)!=3:
-	print("Usage: "+sys.argv[0]+"python rmsd.py <protein1 PDB> <protein2 PDB>")
+	print("Usage: "+sys.argv[0]+"python change_residues.py <protein1 PDB> <protein2 PDB>")
 	sys.exit()
 
 protein1=sys.argv[1]
